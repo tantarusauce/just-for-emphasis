@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 # just-for-emphasis
 ただただ強調したいだけ。（それ以外は特に意味は）ないです。
 
